@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 ![raaichu121's GitHub stats](https://github-readme-stats.vercel.app/api?username=raaichu121&show_icons=true&theme=radical)
 
