@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact)](https://github.com/raaichu121/github-readme-stats)
 
 <p align="center">
-  <img src="https://github.com/uppercasee/uppercasee/raw/output/github-contribution-grid-snake.svg" align="center" alt="snake">
+  <img src="https://github.com/raaichu121/raaichu121/raw/output/github-contribution-grid-snake.svg" align="center" alt="snake">
 </p>
 <!--
 **raaichu121/raaichu121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
