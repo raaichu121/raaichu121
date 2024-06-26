@@ -55,9 +55,11 @@
 </a>
  </p>
 
-![raaichu121's GitHub stats](https://github-readme-stats.vercel.app/api?username=raaichu121&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact)](https://github.com/raaichu121/github-readme-stats)
+<p align="center">
+  <img alt="streaks_card" height="auto" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=raaichu121&theme=radical">
+  <img alt="stats_card" height="auto" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raaichu121&count_private=true&theme=radical&show_icons=true" />
+  <img alt="MostUsedLanguage_card" height="auto" width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact&hide_border=true&theme=radical&langs_count=4&hide=jupyter%20notebook,tex,css,php&size_weight=0.5&count_weight=0.5">
+</p>
 
 <p align="center">
   <img src="https://github.com/raaichu121/raaichu121/raw/output/github-contribution-grid-snake.svg" align="center" alt="snake">
@@ -65,14 +67,3 @@
 <!--
 **raaichu121/raaichu121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
