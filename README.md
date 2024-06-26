@@ -1,6 +1,5 @@
-### Hey there 👋
 
-<h1 align="center">Hi 👋, I'm Ashwani Kr.</h1>
+<h1 align="center">Hi there👋, I'm Ashwani Kr.</h1>
 <h3 align="center">A passionate web developer and AI Enthusiast from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedibiraj&label=Profile%20views&color=0e75b6&style=flat" alt="subedibiraj" /> </p>
@@ -40,7 +39,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_colab/google_colab-icon.svg" alt="colab" width="40" height="40"/>
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
