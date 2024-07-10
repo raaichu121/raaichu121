@@ -1,14 +1,15 @@
 
-<h1 align="center">Hi there👋, I'm Ashwani Kr.</h1>
+<h1 align="center">Hi there👋,
+    I'm Ashwani Kr.</h1>
 <h3 align="center">A passionate web developer and AI Enthusiast from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedibiraj&label=Profile%20views&color=0e75b6&style=flat" alt="subedibiraj" /> </p>
 
 - 🔭 I’m currently working on **Gamified Course for Visually Impaired Individuals**
 
-- 🌱 I’m currently learning **Front End Development and APIs**
+- 🌱 I’m currently learning **Front End Development, UI/UX and APIs**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/raaichu121)]([https://github.com/raaichu121])
+- 👨‍💻 All of my projects are available at **https://github.com/raaichu121**
 
 - 💬 Ask me about **Front End**
 
