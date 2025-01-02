@@ -57,9 +57,9 @@
  </p>
 
 <p align="center">
-  <img alt="streaks_card" height="auto" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=raaichu121&theme=radical">
+  <img alt="streaks_card" height="auto" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=raaichu121&theme=radical">
 <!--   <img alt="stats_card" height="auto" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raaichu121&count_private=true&theme=radical&show_icons=true" /> -->
-  <img alt="MostUsedLanguage_card" height="auto" width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact&hide_border=true&theme=radical&langs_count=4&hide=jupyter%20notebook,tex,css,php&size_weight=0.5&count_weight=0.5">
+  <img alt="MostUsedLanguage_card" height="auto" width="49%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact&hide_border=true&theme=radical&langs_count=4&hide=jupyter%20notebook,tex,css,php&size_weight=0.5&count_weight=0.5">
 </p>
 
 <p align="center">
