@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedibiraj&label=Profile%20views&color=0e75b6&style=flat" alt="subedibiraj" /> </p>
 
-- 🔭 I’m currently working on **Gamified Course for Visually Impaired Individuals**
-
-- 🌱 I’m currently learning **Front End Development, UI/UX and APIs**
+- 🌱 I’m currently learning **Fullstack Development and RESTAPIs**
 
 - 👨‍💻 All of my projects are available at **https://github.com/raaichu121**
 
