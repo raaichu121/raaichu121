@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subedibiraj&label=Profile%20views&color=0e75b6&style=flat" alt="subedibiraj" /> </p>
 <br>🌱 I’m currently learning Fullstack Development and RESTAPIs<br>
 <br>👨‍💻 All of my projects are available at https://github.com/raaichu121<br>
-<br>💬 Ask me about Front End<br>
 <br>📫 How to reach me http://raaichu121.github.io/Ashwanikr.github.io/<br>
 <br>⚡ Fun fact I am extrovert to people I'm comfortable
 
