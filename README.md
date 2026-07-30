@@ -1,29 +1,84 @@
-
-<h1 align="center">Hi there👋,
-    I'm Ashwani Kr.</h1>
-<h3 align="center">A passionate web developer and AI Enthusiast from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subedibiraj&label=Profile%20views&color=0e75b6&style=flat" alt="subedibiraj" /> </p>
-<br>🌱 I’m currently learning Fullstack Development and RESTAPIs<br>
-<br>👨‍💻 All of my projects are available at https://github.com/raaichu121<br>
-<br>📫 How to reach me http://raaichu121.github.io/Ashwanikr.github.io/<br>
-<br>⚡ Fun fact I am extrovert to people I'm comfortable
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwani-chaudhari-b67718259/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashwani2001@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<h1 align="center">Hi there 👋, I'm Ashwani Kr.</h1>
+<h3 align="center">Fullstack Developer · Kathmandu, Nepal</h3>
 
 <p align="center">
-  <img alt="streaks_card" height="auto" width="49%" src="https://github-readme-streak-stats.vercel.app/?user=raaichu121&theme=radical" />
-  <img alt="stats_card" height="auto" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raaichu121&count_private=true&theme=radical&show_icons=true" />
-  <img alt="MostUsedLanguage_card" height="auto" width="49%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact&hide_border=true&theme=radical&langs_count=4&hide=jupyter%20notebook,tex,css,php&size_weight=0.5&count_weight=0.5">
+  <a href="https://linkedin.com/in/ashwani-kr-chaudhari">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="http://raaichu121.github.io/ashwanikr.github.io/">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Currently building
+
+**GiftFlow** — a full-stack gift card platform tailored for Nepali festival occasions (Dashain, Tihar, Teej, Holi, Buddha Jayanti). React/Next.js frontend, Node.js/Express backend, with an admin panel for occasion-based card management and AI-generated card artwork.
+
+### 🌱 Currently learning
+
+Fullstack development and REST API design, in more depth.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=reactrouter&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Cloud & Deployment**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Design & Tools**
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raaichu121&show_icons=true&hide=prs,issues&count_private=true&theme=radical" alt="Ashwani's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/raaichu121/raaichu121/raw/output/github-contribution-grid-snake.svg" align="center" alt="snake">
+  <img src="https://streak-stats.demolab.com/?user=raaichu121&theme=radical" alt="GitHub streak"/>
 </p>
-<!--
-**raaichu121/raaichu121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+---
+
+<p align="center">
+  <em>Always open to collaborating on fullstack or AI-adjacent projects — feel free to reach out.</em>
+</p>
