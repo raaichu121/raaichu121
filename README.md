@@ -17,11 +17,11 @@
 
 ### 🚀 Currently building
 
-**GiftFlow** — a full-stack gift card platform tailored for Nepali festival occasions (Dashain, Tihar, Teej, Holi, Buddha Jayanti). React/Next.js frontend, Node.js/Express backend, with an admin panel for occasion-based card management and AI-generated card artwork.
+**GiftNow** — a full-stack gift card platform tailored for Nepali festival occasions (Dashain, Tihar, Teej, Holi, Buddha Jayanti). React/Next.js frontend, Node.js/Express backend, with an admin panel for occasion-based card management and AI-generated card artwork.
 
 ### 🌱 Currently learning
 
-Fullstack development and REST API design, in more depth.
+Fullstack development and REST API design, Backend, System Architecture in more depth.
 
 ---
 
@@ -69,13 +69,34 @@ Fullstack development and REST API design, in more depth.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raaichu121&show_icons=true&hide=prs,issues&count_private=true&theme=radical" alt="Ashwani's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raaichu121&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=raaichu121&theme=radical" alt="GitHub streak"/>
 </p>
+
+<!-- Light Mode -->
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Ashwani's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=240 src="./profile/stats-light.svg#gh-light-mode-only" alt="Ashwani's GitHub stats" />
+</a>
+</div>
+<!-- Dark Mode -->
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Ashwani's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Ashwani's GitHub stats" />
+</a>
+</div>
+<br/>
+ 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raaichu121/raaichu121/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raaichu121/raaichu121/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/raaichu121/raaichu121/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
