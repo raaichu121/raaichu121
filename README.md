@@ -71,26 +71,6 @@ Fullstack development and REST API design, Backend, System Architecture in more 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=raaichu121&theme=radical" alt="GitHub streak"/>
 </p>
-
-<!-- Light Mode -->
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=259 src="./profile/top-langs-light.svg#gh-light-mode-only" alt="Ashwani's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=240 src="./profile/stats-light.svg#gh-light-mode-only" alt="Ashwani's GitHub stats" />
-</a>
-</div>
-<!-- Dark Mode -->
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="./profile/top-langs-dark.svg#gh-dark-mode-only" alt="Ashwani's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img height=240 src="./profile/stats-dark.svg#gh-dark-mode-only" alt="Ashwani's GitHub stats" />
-</a>
-</div>
-<br/>
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raaichu121/raaichu121/output/github-contribution-grid-snake-dark.svg" />
