@@ -17,7 +17,7 @@
 
 ### 🚀 Currently building
 
-**GiftNow** — a full-stack gift card platform tailored for Nepali festival occasions (Dashain, Tihar, Teej, Holi, Buddha Jayanti). React/Next.js frontend, Node.js/Express backend, with an admin panel for occasion-based card management and AI-generated card artwork.
+**GiftCard** — a full-stack gift card platform tailored for Nepali festival occasions (Dashain, Tihar, Teej, Holi, Buddha Jayanti). React/Next.js frontend, Node.js/Express backend, with an admin panel for occasion-based card management.
 
 ### 🌱 Currently learning
 
