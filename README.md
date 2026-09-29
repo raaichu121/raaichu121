@@ -15,10 +15,6 @@
 
 ---
 
-### 🚀 Currently building
-
-**GiftCard** — a full-stack gift card platform tailored for Nepali festival occasions (Dashain, Tihar, Teej, Holi, Buddha Jayanti). React/Next.js frontend, Node.js/Express backend, with an admin panel for occasion-based card management.
-
 ### 🌱 Currently learning
 
 Fullstack development and REST API design, Backend, System Architecture in more depth.
