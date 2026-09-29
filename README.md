@@ -8,7 +8,7 @@
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://raaichu121.github.io/Ashwanikr.github.io/">
+  <a href="https://portfolio-git-main-raaichu121s-projects.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
